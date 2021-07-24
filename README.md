@@ -1,3 +1,3 @@
-# AI_ALGO_Final_Project
+# Cab Price Prediction
 
 This folder is for final project of AI Algorithm.
